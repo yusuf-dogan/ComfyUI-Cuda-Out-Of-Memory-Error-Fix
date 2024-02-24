@@ -1,5 +1,5 @@
 # ComfyUI-Cuda-Out-Of-Memory-Error-Fix
-
+This is a solution sharing for the Cuda Out Of Memory Error error encountered in ComfyUI, an image processing program with artificial intelligence, using Neural network codes created within the scope of Machine Learning, pytorch library and automatic mixed precision feature.
 ## Installation
 
 - Firstly download repository .zip file
